@@ -7,7 +7,7 @@ Based on the lite version from [Xtreme](https://www.wrappixel.com/demos/admin-te
 
 Demo [example](https://dashboard-next-one.vercel.app/)
 
-[![You can deploy your own with Vercel]](https://vercel.com)
+[You can deploy your own with Vercel](https://vercel.com)
 
 ## How to use
 
