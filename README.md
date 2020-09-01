@@ -5,9 +5,9 @@ Based on the lite version from [Xtreme](https://www.wrappixel.com/demos/admin-te
 
 ## Deploy
 
-Demo [example](https://dashboard-next-one.vercel.app/):
+Demo [example](https://dashboard-next-one.vercel.app/)
 
-[![You can deploy your own with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-portals)
+[![You can deploy your own with Vercel]](https://vercel.com)
 
 ## How to use
 
