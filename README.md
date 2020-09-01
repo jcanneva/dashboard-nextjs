@@ -1,12 +1,13 @@
-# Example with portals
+# Example dashboard
 
-This example show how to use the React [Portals](https://reactjs.org/docs/portals.html) feature with Next.js.
+Based on the lite version from [Xtreme](https://www.wrappixel.com/demos/admin-templates/xtreme-admin/html/ltr/index.html)
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com):
+## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-portals)
+Demo [example](https://dashboard-next-one.vercel.app/):
+
+[![You can deploy your own with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-portals)
 
 ## How to use
 
